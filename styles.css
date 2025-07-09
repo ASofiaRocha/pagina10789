@@ -1,0 +1,18 @@
+h22,
+h3 {
+    color: steelblue;
+}
+
+h4 {
+    color: tomato;
+    text-transform: uppercase;
+}
+
+code {
+    background-color: black;
+    color: white;
+    padding: 3px;
+    border_radius: 5px;
+    margin: 5px;
+    display: inline-block;
+}
